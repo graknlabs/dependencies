@@ -34,3 +34,8 @@ def deps():
         remote = "https://github.com/graknlabs/rules_proto",
         commit = "fd3aa227fdaa178c077ef9d72156b772d3b8c05d",
     )
+    git_repository(
+        name = "com_google_protobuf",
+        remote = "https://github.com/protocolbuffers/protobuf",
+        tag = "v3.12.2"
+    )

@@ -26,7 +26,7 @@ artifacts = {
     "com.google.guava:guava": "23.0",
     "com.google.http-client:google-http-client": "1.34.2",
     "com.google.inject:guice": "4.2.2",
-    "com.google.protobuf:protobuf-java": "3.5.1",
+    "com.google.protobuf:protobuf-java": "3.12.2",
     "com.jcraft:jsch": "0.1.55",
     "com.microsoft.azure:azure": "1.33.1",
     "com.microsoft.azure:azure-client-authentication": "1.7.4",
