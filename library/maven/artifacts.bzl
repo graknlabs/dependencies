@@ -198,6 +198,7 @@ artifacts = {
     "org.hamcrest:hamcrest-core": "1.3",
     "org.hamcrest:hamcrest-library": "1.3",
     "org.javatuples:javatuples": "1.2",
+    "org.jetbrains.kotlin:kotlin-stdlib-jdk7": "1.4.10",
     "org.kohsuke:github-api": "1.101",
     "org.mockito:mockito-core": "2.6.4",
     "org.openjdk.jmh:jmh-core": "1.23",
