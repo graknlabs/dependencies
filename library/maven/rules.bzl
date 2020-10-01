@@ -24,7 +24,8 @@ def maven(artifacts_list, overrides={}):
             "https://repo.grakn.ai/repository/maven-snapshot",
         ],
         strict_visibility = True,
-        version_conflict_policy = "pinned"
+        version_conflict_policy = "pinned",
+        fetch_sources = True
     )
 
 def maven_artifact(artifact, artifact_info):
