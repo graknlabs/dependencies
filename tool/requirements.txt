@@ -1,5 +1,5 @@
 PyGithub==1.55
-urllib3==1.24.2
+urllib3==1.26.5
 chardet==3.0.4
 idna==2.7
 wrapt==1.10.11
